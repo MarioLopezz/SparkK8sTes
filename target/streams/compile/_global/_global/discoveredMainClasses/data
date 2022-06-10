@@ -1,1 +1,1 @@
-["WordCount","readWriteHdfs"]
+["org.kalma.examples.WordCount","org.kalma.examples.readWriteHdfs"]
